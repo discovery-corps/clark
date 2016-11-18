@@ -1,0 +1,5 @@
+*.py[cod]
+
+.tox
+*.egg*
+MANIFEST
