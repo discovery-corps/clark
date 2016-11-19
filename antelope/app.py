@@ -1,7 +1,7 @@
 import falcon
 
-from antelope.views import root
-from antelope.views import torrents
+from antelope.controllers import root
+from antelope.controllers import torrents
 
 
 api = falcon.API()
