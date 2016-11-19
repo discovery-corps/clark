@@ -14,6 +14,9 @@ To run the app and play around, run::
 
     tox -evenv gunicorn antelope.app:api
 
+.. image:: https://travis-ci.org/jimrollenhagen/antelope.svg?branch=master
+    :target: https://travis-ci.org/jimrollenhagen/antelope
+
 * Free software: Apache license
 * Documentation: TODO
 * PyPI: TODO
