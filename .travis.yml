@@ -11,6 +11,8 @@ matrix:
       env: TOXENV=pypy
     - python: 3.5
       env: TOXENV=pep8
+    - python: 3.5
+      env: TOXENV=func
 
 install:
   - pip install tox
