@@ -1,5 +1,5 @@
-from antelope import objects
-from antelope.tests.unit import base
+from clark import objects
+from clark.tests.unit import base
 
 
 class TestTorrents(base.Base):

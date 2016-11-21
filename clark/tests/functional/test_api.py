@@ -4,7 +4,7 @@ from wsgiref import simple_server
 
 import requests
 
-from antelope import app
+from clark import app
 
 
 class Server(object):

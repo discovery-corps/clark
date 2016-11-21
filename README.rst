@@ -1,6 +1,6 @@
-========
-Antelope
-========
+=====
+Clark
+=====
 
 A high performance bittorrent tracker frontend, written in Python.
 
@@ -12,10 +12,10 @@ To run lint and unit tests, run::
 
 To run the app and play around, run::
 
-    tox -evenv gunicorn antelope.app:api
+    tox -evenv gunicorn clark.app:api
 
-.. image:: https://travis-ci.org/jimrollenhagen/antelope.svg?branch=master
-    :target: https://travis-ci.org/jimrollenhagen/antelope
+.. image:: https://travis-ci.org/discovery-corps/clark.svg?branch=master
+    :target: https://travis-ci.org/discovery-corps/clark
 
 * Free software: Apache license
 * Documentation: TODO

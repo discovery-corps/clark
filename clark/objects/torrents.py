@@ -1,4 +1,4 @@
-from antelope.objects import base
+from clark.objects import base
 
 
 class Torrent(base.BaseObject):

@@ -1,6 +1,6 @@
 import random
 
-from antelope import exception
+from clark import exception
 
 
 def view_torrents(req, resp, resource, params):

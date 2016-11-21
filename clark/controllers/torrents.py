@@ -2,8 +2,8 @@ import json
 
 import falcon
 
-from antelope.hooks import permissions as permission_hooks
-from antelope import objects
+from clark.hooks import permissions as permission_hooks
+from clark import objects
 
 
 class Resource(object):
