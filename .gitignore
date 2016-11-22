@@ -3,3 +3,5 @@
 .tox
 *.egg*
 MANIFEST
+.DS_Store
+.idea
