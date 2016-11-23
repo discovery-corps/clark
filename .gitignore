@@ -5,3 +5,8 @@
 MANIFEST
 .DS_Store
 .idea
+.Python
+bin
+include
+lib
+/pip-selfcheck.json
