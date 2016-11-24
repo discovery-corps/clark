@@ -1,0 +1,3 @@
+{"module_name": "main",
+"required": true,
+"module_list": ["foo", "bar", "baz"]}
