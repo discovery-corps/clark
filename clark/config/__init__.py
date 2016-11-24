@@ -11,7 +11,8 @@ class BaseConfig:
 
     def load(self):
         with open(self.path) as data_in:
-            self.config = json.load(data_in, object_hook=lambda d: Namespace(**d))
+            self.config = json.load(data_in,
+                                    object_hook=lambda d: Namespace(**d))
 
 
 class ModuleConfig(BaseConfig):
