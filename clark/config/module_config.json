@@ -1,0 +1,4 @@
+{"module_name": "authentication_module",
+"required": true,
+"identify_with": "sql_auth.SQLIdentifier",
+"authenticate_with": "sql_auth.SQLAuthenticator" }
